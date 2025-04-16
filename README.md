@@ -24,4 +24,7 @@ If you did something wrong on your computer, it's your problem. I published just
 If you see a bug, you can say it to me but it's not sure that I could resolve it.
 
 ---
-*I will continue to upgrade the code.*
+*I will continue to upgrade the code*
+
+---
+ [speed-typing-game](https://github.com/poulet-ND/speed-typing-game) © 2025 by [poulet-ND](https://github.com/poulet-ND) is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)
