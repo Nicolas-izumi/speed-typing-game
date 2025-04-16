@@ -20,8 +20,8 @@ If you haven't them installed install them with `pip install` + `NAME OF THE LIB
 If you are so fast that you did all the word before the 60 seconds passt, it will create an error `list out of range`.
 
 ---
-If you did something wrong on your computer, it's not my problem. I publish just my own pprogram and I won't resolve problem of others.
+If you did something wrong on your computer, it's your problem. I published just my own program and I won't resolve problem of others.
 If you see a bug, you can say it to me but it's not sure that I could resolve it.
 
 ---
-*I continue to upgrade the code.*
+*I will continue to upgrade the code.*
