@@ -11,7 +11,10 @@ In the terminal or the command prompt, write: `python` + `PATH TO THE PYTHON FIL
 If python isn't installed, install python.
 
 ### bugs in the code
+---
 The program use `tkinter`, `threading` and `time`.
 If you haven't them installed install them with `pip install` + `NAME OF THE LIBRAIRIE`.
 If you are so fast that you did all the word before the 60 seconds passt, it will create an error `list out of range`.
-I continue to upgrade the code.
+
+---
+*I continue to upgrade the code.*
