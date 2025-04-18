@@ -11,7 +11,7 @@ If you don't know how to execute python, I'll show you:
 In the terminal or the command prompt, write: `python` + `PATH TO THE PYTHON FILE`.
 If python isn't installed, install python.
 
-I also created am `.exe` file but the version is a litle bit aoutdatet. Also, python is more stable so I recommend you to use python.
+I also created am `.exe` but python is more stable so I recommend you to use python.
 
 ### bugs in the code
 ---
